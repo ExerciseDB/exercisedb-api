@@ -45,6 +45,18 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 
 <br>
 
+## 🚀 Deploy Your Own API (V1)
+
+Want to self-host the open-source ExerciseDB API (V1)?
+
+You can instantly deploy it to **Vercel** with just one click and have your own version running in seconds — no backend setup needed.
+
+<div align="left">
+
+[![Deploy with Vercel](https://vercel.com/button)](https://dub.sh/DeployNow)
+
+</div>
+
 ## 🔗 Useful Links
 
 <div align="left">
@@ -67,7 +79,7 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 <strong>Test our datasets and explore API endpoints</strong><br>
 <em>⚠️ These endpoints are for exploration only and <strong>not recommended for production integration</strong> — strict rate limits and potential instability may apply.</em>
 <br><br>
-**Note:** V1 and V2 refer to different datasets.
+<strong style="color: red;">**Note:** V1 and V2 refer to different datasets.</strong>
 <br>
 
   <p>
@@ -116,18 +128,6 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 </div>
 
 <br>
-
-## 🚀 Deploy Your Own API (V1)
-
-Want to self-host the open-source ExerciseDB API (V1)?
-
-You can instantly deploy it to **Vercel** with just one click and have your own version running in seconds — no backend setup needed.
-
-<div align="left">
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/exercisedb/exercisedb-api)
-
-</div>
 
 ## 🏋️‍♂️ V2 Exercise Sample
 
