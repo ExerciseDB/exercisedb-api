@@ -16,6 +16,7 @@
       <a href="https://dub.sh/exercisedb-api">
         <img src="https://img.shields.io/badge/Get%20Started-2D2D2D?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started" />
       </a>
+      [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FExerciseDB%2Fexercisedb-api)
     </span>
     <span style="margin-right: 10px;">
       <a href="https://docs.exercisedb.dev">
